@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(201, 197, 197);
+}
+a{
+   color: black;
+   text-decoration: none;
+   font-size: 16px;
+   font-weight: bold;
+}
+.titulo{
+    font-weight: bold;
+    padding-left: 40px;
+}
+.subtitulo{
+    padding-left: 90px;
+}
+.card-img-top{
+    width: 350px;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: bold;
+}
+.boton{
+    height: 50px;
+    width: 350px;
+    background-image: linear-gradient(to right,rgb(107, 104, 104), rgb(180, 83, 153), rgb(180, 83, 153), rgb(180, 83, 153), rgb(180, 83, 153), rgb(107, 104, 104));
+
+}
+.boton-vip{
+    height: 50px;
+    width: 350px;
+    background-image: linear-gradient(to right, rgb(107, 104, 104), rgb(243, 198, 63), rgb(243, 198, 63), rgb(243, 198, 63), rgb(243, 198, 63), rgb(107, 104, 104))
+}
+.btn{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.list-vip{
+    font-size: 17px;
+    font-weight: bold;
+}
+.iconWpp{
+    padding-top: 10px;
+    padding-left: 150px;
+}
