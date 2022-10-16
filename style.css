@@ -1,5 +1,6 @@
 body{
     background-color: rgb(201, 197, 197);
+    background-image: url(/img/TEXTURAPAPEL-FONDO.jpg);
 }
 a{
    color: black;
@@ -8,18 +9,40 @@ a{
    font-weight: bold;
 }
 .titulo{
-    font-weight: bold;
-    padding-left: 35px;
+    max-width: 100%;
+}
+.imgTitulo{
+    width: 100%;
 }
 .subtitulo{
-    padding-left: 80px;
+    max-width: 100%;
+}
+.imgSubtitulo{
+    width: 100%;
+}
+.card-body{
+    max-width: 100%;
+}
+.imgGeneral{
+    width: 120%;
+}
+.precioEntradas{
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.imgVip{
+    width: 120%;
+    
 }
 .card-img-top{
     width: 350px;
+
 }
 .card-text{
-    font-size: 18px;
+    font-size: 25px;
     font-weight: bold;
+
 }
 .boton{
     height: 50px;
@@ -39,7 +62,7 @@ a{
     text-decoration: none;
 }
 .list-vip{
-    font-size: 17px;
+    font-size: 23px;
     font-weight: bold;
 }
 .iconWpp{
