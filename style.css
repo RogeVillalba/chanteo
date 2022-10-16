@@ -26,6 +26,9 @@ a{
 .imgGeneral{
     width: 120%;
 }
+.textoGeneral{
+    width: 130%;
+}
 .precioEntradas{
     font-size: 25px;
     font-weight: bold;
@@ -43,6 +46,24 @@ a{
     font-size: 25px;
     font-weight: bold;
 
+}
+.botonEntradaGeneral{
+    background-image: linear-gradient(to right,rgb(107, 104, 104), rgb(180, 83, 153), rgb(180, 83, 153), rgb(180, 83, 153), rgb(180, 83, 153), rgb(107, 104, 104));
+    width: 350px;
+    height: 30px;
+}
+.botonGeneral{   
+    font-size: 25px;
+    padding-left: 45px;
+}
+.botonEntradaVip{
+    background-image: linear-gradient(to right, rgb(107, 104, 104), rgb(243, 198, 63), rgb(243, 198, 63), rgb(243, 198, 63), rgb(243, 198, 63), rgb(107, 104, 104));
+    width: 350px;
+    height: 30px;
+}
+.botonVip{
+    font-size: 25px;
+    padding-left: 80px;
 }
 .boton{
     height: 50px;
@@ -68,4 +89,20 @@ a{
 .iconWpp{
     padding-top: 10px;
     padding-left: 150px;
+}
+
+/* GENERAL */ 
+.tituloGeneral{
+    max-width: 100%;
+}
+.imgGeneralGeneral{
+    width: 100%;
+}
+
+/* VIP */
+.tituloVip{
+    max-width: 100%;
+}
+.imgVip{
+    width: 100%;
 }
