@@ -49,8 +49,10 @@ a{
 }
 .botonEntradaGeneral{
     background-image: linear-gradient(to right,rgb(107, 104, 104), rgb(180, 83, 153), rgb(180, 83, 153), rgb(180, 83, 153), rgb(180, 83, 153), rgb(107, 104, 104));
+    border-radius: 5px;
     width: 350px;
     height: 30px;
+    box-shadow: 7px 5px 3px rgb(60, 60, 60);
 }
 .botonGeneral{   
     font-size: 25px;
@@ -58,8 +60,11 @@ a{
 }
 .botonEntradaVip{
     background-image: linear-gradient(to right, rgb(107, 104, 104), rgb(243, 198, 63), rgb(243, 198, 63), rgb(243, 198, 63), rgb(243, 198, 63), rgb(107, 104, 104));
+    border-radius: 5px;
     width: 350px;
     height: 30px;
+    box-shadow: 7px 5px 3px rgb(60, 60, 60);
+
 }
 .botonVip{
     font-size: 25px;
@@ -89,6 +94,7 @@ a{
 .iconWpp{
     padding-top: 10px;
     padding-left: 150px;
+
 }
 
 /* GENERAL */ 
