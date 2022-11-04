@@ -112,3 +112,16 @@ a{
 .imgVip{
     width: 100%;
 }
+
+/* BEBIDAS */
+.tituloBebidas{
+    max-width: 100%;
+}
+.imgTituloBebidas{
+    width: 100%;
+}
+
+.listaBebida{
+    font-size: 24px;
+
+}
